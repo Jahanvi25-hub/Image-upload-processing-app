@@ -1,2 +1,24 @@
-# Image-upload-processing-app
-A web application that allows users to upload, process, and download images using AWS cloud services. Built as a minor project using AWS S3 for storage and front-end technologies for user interaction.
+# 🌥️ Image Uploading and Processing App
+
+This project is a **minor project** developed as part of the MCA program.  
+It allows users to upload, process, and download images seamlessly using **AWS Cloud Services**.
+
+---
+
+## 🚀 Features
+- Upload images directly from local storage  
+- Automatically resizes images to **200×200 pixels**  
+- Converts uploaded images to **grayscale** for processing  
+- Stores and retrieves files from **AWS S3 Bucket**  
+- Provides a download option for processed images  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Cloud:** AWS S3 (Free Tier)  
+- **Tools:** Visual Studio Code, AWS Console  
+
+---
+
+## 📂 Project Structure
